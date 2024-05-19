@@ -1,0 +1,7 @@
+C:\Users\Kurucz\Desktop\KÜLKER2ÉV\SZAKMAI_GYAK\Szoftverfejleszto es -tesztelo szakmai zarovizsga feladatok megoldasok\Megoldasok\1. programozás\REAL\RealESTATES\bin\Debug\RealESTATES.exe.config
+C:\Users\Kurucz\Desktop\KÜLKER2ÉV\SZAKMAI_GYAK\Szoftverfejleszto es -tesztelo szakmai zarovizsga feladatok megoldasok\Megoldasok\1. programozás\REAL\RealESTATES\bin\Debug\RealESTATES.exe
+C:\Users\Kurucz\Desktop\KÜLKER2ÉV\SZAKMAI_GYAK\Szoftverfejleszto es -tesztelo szakmai zarovizsga feladatok megoldasok\Megoldasok\1. programozás\REAL\RealESTATES\bin\Debug\RealESTATES.pdb
+C:\Users\Kurucz\Desktop\KÜLKER2ÉV\SZAKMAI_GYAK\Szoftverfejleszto es -tesztelo szakmai zarovizsga feladatok megoldasok\Megoldasok\1. programozás\REAL\RealESTATES\obj\Debug\RealESTATES.csproj.AssemblyReference.cache
+C:\Users\Kurucz\Desktop\KÜLKER2ÉV\SZAKMAI_GYAK\Szoftverfejleszto es -tesztelo szakmai zarovizsga feladatok megoldasok\Megoldasok\1. programozás\REAL\RealESTATES\obj\Debug\RealESTATES.csproj.CoreCompileInputs.cache
+C:\Users\Kurucz\Desktop\KÜLKER2ÉV\SZAKMAI_GYAK\Szoftverfejleszto es -tesztelo szakmai zarovizsga feladatok megoldasok\Megoldasok\1. programozás\REAL\RealESTATES\obj\Debug\RealESTATES.exe
+C:\Users\Kurucz\Desktop\KÜLKER2ÉV\SZAKMAI_GYAK\Szoftverfejleszto es -tesztelo szakmai zarovizsga feladatok megoldasok\Megoldasok\1. programozás\REAL\RealESTATES\obj\Debug\RealESTATES.pdb
